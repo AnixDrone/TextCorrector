@@ -5,7 +5,7 @@ sp = SpellChecker()
 
 
 def read_text():
-    with open("text.txt", "r", encoding='utf-8') as f:
+    with open("solaris.txt", "r", encoding='utf-8') as f:
         return f.readlines()
 
 
