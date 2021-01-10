@@ -1,7 +1,6 @@
 import time
-from spellchecker import SpellChecker
 from multiprocessing import Pool
-import reader
+from project_files import reader
 
 
 def is_prime(number):
